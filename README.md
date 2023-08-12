@@ -1,2 +1,2 @@
 # azure-resume
-My personal resume created with Azure
+My personal resume created with Microsoft Azure
